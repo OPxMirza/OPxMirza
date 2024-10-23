@@ -7,7 +7,7 @@ I'm a passionate web developer with expertise in both frontend and backend techn
 - **Frontend:** HTML, CSS, Bootstrap, jQuery
 - **Backend:** Node.js, Express, RESTful APIs, PHP
 - **Database:** MongoDB, Mongoose
-- **Other:** Git, GitHub
+- **Other:** GitHub
 
 ## 💼 Projects
 
