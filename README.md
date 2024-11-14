@@ -36,6 +36,16 @@ I'm a passionate web developer with expertise in both frontend and backend techn
 - **Technologies:** Node.js, Express, MongoDB
 - **Link:** [Restaurant Management System ](https://github.com/OPxMirza/Restaurant-Management-System-using-node-js-and-mongodb.git)
 
+### 6. Database Project Hospital Management System
+- **Description:** A system for managing hospital operations.
+- **Technologies:** Database, MySQL, Oracle
+- **Link:** [Database Project Hospital Management System ](https://github.com/OPxMirza/database-project-hospital-management-system.git)
+
+### 7. Database Project Restaurant Management System
+- **Description:** A system for managing restaurant operations.
+- **Technologies:** Database, MySQL, Oracle
+- **Link:** [Database Project Restaurant Management System ](https://github.com/OPxMirza/Database-project-restaurant-management-system-.git)
+
 ## 🎓 Education
 - BS in Computer Science, Riphah International University, Lahore.
 
